@@ -1,0 +1,1 @@
+print("My name is Roshan Paul, I reside in the town of kolenchery, ernakulam. I have completed my bachelors in technology between the years of 2016 - 2020.")
